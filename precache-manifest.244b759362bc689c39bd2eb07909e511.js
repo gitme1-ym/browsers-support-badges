@@ -1,4 +1,4 @@
-self.__precacheManifest = (self.__precacheManifest || []).concat([
+https://github.com/gitme1-ym/browsers-support-badges/blob/gitme1-ym-patch-1/precache-manifest.244b759362bc689c39bd2eb07909e511.jsself.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "125071884126ab937fe41f26b7593fbd",
     "url": "/browsers-support-badges/index.html"
